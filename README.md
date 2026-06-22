@@ -1,7 +1,7 @@
 This is a TaskManager project for my internship.
 
 I followed the guidelines from the book "FastAPI - Modern Python Web Development" by Bill Lubanovic. Specifically I followed chapters 8, 9 and 10 to create a three-layer
-backend architecture that involves an api layer (called as web layer in the book), a service layer for business logic/validations, and a db layer for writing to the database.
+backend architecture that involves an api layer (called as web layer in the book), a service layer for business logic/validations, and a db layer for writing to the database. I also asked my dad for help with the structuring and debugging as well as AI.
 
 The database is made of two tables: A user table and a task table. 
 
