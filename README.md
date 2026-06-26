@@ -5,6 +5,16 @@ backend architecture that involves an api layer (called as web layer in the book
 
 The database is made of two tables: A user table and a task table. 
 
+Set Up Insttructions:-
+Command to run the docker and create a container: docker compose up --build
+Command to open existing contatiners: docker compose up
+Command to stop the docker: docker compose down
+
+
+Installing Vue js to run the server: npm install -g @vue/cli
+
+To run the Vue js server go to the file, frontend under client and run the command: npm run serve
+
 
 
 TaskManager  
